@@ -171,5 +171,25 @@ button {
     display: flex;
     justify-content: center;
     position: relative;
-    top: 120px;
+    top: 40px;
 }
+
+
+footer {
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+
+button.sign-in-butto {
+    padding: 2px 20px;
+    border-radius: 6px;
+}
+
+
+
+
+.communication-area {margin-top: 30px;}
+
+
+

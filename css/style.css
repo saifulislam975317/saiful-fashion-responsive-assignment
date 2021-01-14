@@ -1,0 +1,175 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.img-div img {
+    width: 200px;
+}
+
+.nav-bar-area {
+    
+display: flex;
+    
+justify-content: space-around;
+    
+margin-top: 10px;
+    
+padding: 10px;
+}
+
+h1 span {
+    color: orange;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    text-align: justify;
+    color: gray;
+}
+
+
+.nav-bar ul li {
+    list-style: none;
+    font-size: 18px;
+    float: left;
+}
+
+.nav-bar ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 12px;
+}
+
+
+
+button.button img {
+    width: 25px;
+}
+
+
+
+button.button {
+    display: flex;
+    background-color: darkolivegreen;
+    color: white;
+    border: 0;
+    padding: 3px 17px;
+    border-radius: 5px;
+}
+
+
+.gutter{
+   border:0;
+
+}
+
+.card-area img{
+   width: 200px;
+   height: 300px;
+}
+.card-area{
+    border: 0px;
+}
+
+
+.button-for-wjacekt img, .button-for-mjacekt img {
+    width: 22px;
+    height: 22px;
+}
+
+.button-for-wjacekt, .button-for-mjacekt {
+    background-color: #619d1b;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 7px 11px;
+    border-radius: 10px;
+    width: 124px;
+}
+
+.price {
+    width: 50%;
+   
+}
+
+.women-button, .man-button {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: #619d1b;
+    border: none;
+    color: white;
+}
+
+
+
+.women-button .price, .man-button .price {
+    color: orange;
+    padding: 0px 0px;
+    margin-top: 3px;
+}
+
+.price h3 {
+    font-size: 30px;
+}
+
+.women-footer, .man-footer{
+    border: 0px;
+    background-color: white;
+}
+
+.women-image, .man-image {
+    text-align: center;
+    background-color: #8080802e;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.left-div img {
+    width: 75px;
+    margin-right: 17px;
+}
+
+.div {
+    display: flex;
+}
+
+.right-div h1 {
+    font-size: 22px;
+}
+
+
+
+.right-div p {
+    font-size: 20px;
+}
+
+.div.shadow {
+    border-radius: 15px;
+    margin-bottom: 13px;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.shoping-image img {width: 370px;}
+
+.shoping-image {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 251px;
+}
